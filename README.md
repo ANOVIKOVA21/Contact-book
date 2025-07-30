@@ -9,5 +9,5 @@ The homepage shows a contact table. When a user clicks a contact, the user is re
 - Displaying a list of contacts
 - Page-to-page navigation
 - Editing contact details
-  ![Contact Book Screenshot](/screenshot1.png)
-  ![Contact Information Screenshot](/screenshot2.png)
+  ![Contact Book Screenshot](public/screenshot1.png)
+  ![Contact Information Screenshot](public/screenshot2.png)
